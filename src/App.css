@@ -7,6 +7,66 @@
   pointer-events: none;
 }
 
+.display-title {
+  font-family: "MarkaziMedium";
+}
+
+.sub-title {
+  font-family: "MarkaziRegular";
+}
+
+.lead-text {
+  font-family: "KarlaRegular";
+}
+
+.highlight-text {
+  font-family: "KarlaMedium";
+}
+
+.card-title {
+  font-family: "KarlaBold";
+}
+
+.paragraph-text {
+  font-family: "KarlaExtraBold";
+}
+
+.hero-description {
+  font-family: "KarlaBold";
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+span {
+  background-color: #ee9972;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

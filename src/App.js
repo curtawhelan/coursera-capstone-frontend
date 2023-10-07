@@ -3,6 +3,7 @@ import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Main from "./components/Main"
 import Nav from "./components/Nav"
+
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
       <Footer />
     </>
   )
+  // routes are in main.js
 }
 
 export default App

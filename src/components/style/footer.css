@@ -1,0 +1,12 @@
+.footer-nav > h3 {
+  color: #495e57;
+}
+
+#footer-logo {
+  width: 160px;
+  height: 280px;
+}
+
+footer {
+  padding: 60px;
+}

@@ -35,7 +35,7 @@ function Specials() {
         <div className="column-wrapper">
           <img
             src="icons_assets/lemon dessert.jpg"
-            alt="fully lemon dessert"
+            alt="lemon dessert with fork"
             width={265}
             height={185}
           />
